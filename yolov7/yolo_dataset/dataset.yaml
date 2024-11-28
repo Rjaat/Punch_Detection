@@ -1,0 +1,8 @@
+names:
+- Jab
+- Cross
+- Hook
+- Uppercut
+nc: 4
+train: yolo_dataset/train/images
+val: yolo_dataset/val/images

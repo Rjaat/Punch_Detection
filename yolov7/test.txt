@@ -1,0 +1,1 @@
+python test.py --weights runs/train/boxing_detection3/weights/best.pt --data yolo_dataset/dataset.yaml --img-size 640 --batch-size 16 

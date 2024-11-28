@@ -1,0 +1,8 @@
+names:
+- Jab
+- Cross
+- Hook
+- Uppercut
+nc: 4
+train: boxing_dataset/train/images
+val: boxing_dataset/val/images
